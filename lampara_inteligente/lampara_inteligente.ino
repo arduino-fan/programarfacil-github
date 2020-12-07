@@ -1,4 +1,4 @@
-
+// Lampara inteligente con Arduino
 #define RELE_PIN      2
 #define TRIGGER_PIN   5
 #define ECHO_PIN      6
